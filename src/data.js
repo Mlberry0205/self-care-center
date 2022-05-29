@@ -24,7 +24,7 @@ var affirmations = [
 
 "I honor my body by trusting the signals that it sends me.",
 
-"I manifest perfect health by making smart choices."
+"I manifest perfect health by making smart choices.",
 
 ];
 
@@ -42,11 +42,11 @@ var mantras = [
 
 "I am enough.",
 
-"In the beginning it is you, in the middle it is you and in the end it is you."
+"In the beginning it is you, in the middle it is you and in the end it is you.",
 
-"I love myself."
+"I love myself.",
 
-"I am present now."
+"I am present now.",
 
 "Inhale the future, exhale the past.",
 
