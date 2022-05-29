@@ -96,13 +96,18 @@ button {
 
 }
 
-.lotus-pose {
+.lotusPose {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 8%;
 
 }
+
+.hidden {
+ display: none!important;
+}
+
 /* font-family: 'Quicksand', sans-serif;
 COLORS
 light-yellow - #f7e4bf;
