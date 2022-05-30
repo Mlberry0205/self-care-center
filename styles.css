@@ -92,8 +92,18 @@ button {
   padding: 50px;
   width: 700px;
   height: 49px;
+}
 
-
+.recieveMessage {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  background-color: white;
+  border-radius: 4px;
+  padding: 50px;
+  width: 700px;
+  height: 49px;
 }
 
 .lotusPose {
